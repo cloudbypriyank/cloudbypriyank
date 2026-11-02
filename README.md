@@ -31,7 +31,6 @@ I enjoy building AI-powered applications using Python, FastAPI, and Generative A
 
 ### 🎓 Currently
 
-* Pursuing **M.Sc. IT**
 * Looking for **Python AI Developer** opportunities
 
 ### 📫 Let's Connect
